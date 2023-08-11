@@ -16,9 +16,9 @@ The code computes the upwelling and downwelling radiation fractions over a range
 ## Contents
 
 - `cp2.py`: Main Python code for the radiative transfer model
-- `atmosphere_model.txt`: Layered atmosphere profile used for the model
+- `data/`: Data used for the model
 - `report.pdf`: Writeup describing the modeling approach, results, and analysis
-- `ourput/`: Directory containing plots generated from the code
+- `output/`: Directory containing plots generated from the code
 
 ## Usage
 
